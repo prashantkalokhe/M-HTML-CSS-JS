@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Java full Stack TNS India</title>
+<body>
+    <img src="C:\Users\Asus\html\Day-1\TNSIF-Logo-PNG.png">
+    <blockquote cite="https://www.geeksforgeeks.org/java">GFG</blockquote>
+    <a href="https://tnsindiafoundation.org">tns url</a>
+        
+    <h1>Largest heading</h1>
+    <div>
+    <p>hello word</p> <br><b><i>intro</i> </b><strong><em>to java</em> </strong><br>
+<P><small>Markup language</small></P>
+<!---h6>Smallest Heading</h6-->
+<p>List of programming language</p>
+<ul>
+    <li>Python</li>
+    <li>Java</li>
+    <list>C</list>
+    <list>C++</list>
+</ul>
+<span> Tecnoserve India Foundation</span>
+
+</div>
+</body>
+    </head>
+</html>
